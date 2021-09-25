@@ -1,5 +1,5 @@
 Rencana konten met
 
--Cre
--Solidwork
--Autocad2022
+-Creo Parametric 4.0
+-Solidwork 2019
+-Autocad 2022
